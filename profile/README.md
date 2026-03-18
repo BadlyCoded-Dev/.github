@@ -21,15 +21,15 @@
 
 ## `</>` Who we are
 
-**BADLYCODED** is a Ukrainian software & digital products company.  
+**badlycoded** is a Ukrainian software & digital products company.  
 We build things that ship — not decks that don't.
 
 We operate in two divisions:
 
 | Division | Focus |
 |---|---|
-| **BADLYCODED** (**BADLYCODED.dev**) | Software, digital products |
-| **BADLYCODED.GAMES** | Game development, original and interestring IPs |
+| **badlycoded** (**badlycoded.dev**) | Software, digital products |
+| **badlycoded.games** | Game development, original and interestring IPs |
 
 ---
 
